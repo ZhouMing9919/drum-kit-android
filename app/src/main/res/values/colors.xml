@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#21222c</color>
+    <color name="colorPrimaryDark">#21222c</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- Blue style gradient -->
+    <color name="blueStartColor">#8589e7</color>
+    <color name="blueEndColor">#3b3ff2</color>
+    <!-- Green style gradient -->
+    <color name="greenStartColor">#2bcf2e</color>
+    <color name="greenEndColor">#068708</color>
+    <!-- Orange style gradient -->
+    <color name="orangeStartColor">#d4643b</color>
+    <color name="orangeEndColor">#d14e1e</color>
+</resources>
